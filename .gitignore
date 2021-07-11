@@ -1,3 +1,5 @@
 .DS_Store
 data/
 .github/**
+model_transfer.pt
+.ipynb_checkpoints/
